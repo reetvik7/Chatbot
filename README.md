@@ -3,14 +3,14 @@ A generative ChatBot created using sequence-to-sequence model consists of two re
 
 **Instructions to run:**
 There are three steps involved in running the chatbot:
-**To train the bot**
-1.Open the file "seq2seq.ini".
-2.Set 'mode = train'.
-3.Run the file execute.py using the code "python execute.py".
+**To train the bot**:
+1. Open the file "seq2seq.ini".
+2. Set 'mode = train'.
+3. Run the file execute.py using the code "python execute.py".
 
-**To test the bot after training**
-1.Open the file "seq2seq.ini".
-2.Set 'mode = test'.
-3.Run the file execute.py using the code "python execute.py".
+**To test the bot after training**:
+1. Open the file "seq2seq.ini".
+2. Set 'mode = test'.
+3. Run the file execute.py using the code "python execute.py".
 
 Finally to launch the chatbot in serve mode run "host.pyw" file.
